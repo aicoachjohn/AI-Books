@@ -1,71 +1,43 @@
-# 📚 Clean AI Learning Path – Courses to Cut Through the Noise
+**PROMPT ENGINEERING BOOKS**
 
-Learning AI isn’t hard — it’s just buried under too much noise. This repository provides a **clean, structured list of courses and resources** that help you learn AI in a simple and effective way.
+1. Prompting Guide 101 – Google 
 
-These resources are divided into three main categories that cover everything from writing better prompts to designing agents and applying AI in real-world use cases.
+https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf
 
----
+2. Prompt Engineering – Google 
 
-## 📝 **Prompting / Prompt Engineering**
+https://www.kaggle.com/whitepaper-prompt-engineering
 
-Learn how to craft effective prompts that guide AI models to produce better results.
+3. Prompt Engineering – Anthropic 
 
-1. **[Prompting Guide 101 – Google](https://ai.google/education/prompting-guide-101)**  
-   Fundamentals of writing better prompts.
+https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/chain-of-thought#example-writing-donor-emails-basic-cot
 
-2. **[Prompt Engineering – Google](https://ai.google/education/prompt-engineering)**  
-   Best practices from Google’s AI teams.
 
-3. **[Prompt Engineering – Anthropic](https://www.anthropic.com/prompt-engineering-guide)**  
-   Techniques for structuring powerful prompts.
+**AGENT DESIGN BOOKS**
 
----
+4. A Practical Guide to Building Agents – OpenAI 
 
-## 🤖 **Agents / Agent Design**
+https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf
 
-A practical approach to designing and deploying AI agents that solve problems efficiently.
+5. Building Effective Agents – Anthropic 
 
-4. **[A Practical Guide to Building Agents – OpenAI](https://platform.openai.com/docs/agents/building-agents)**  
-   Step-by-step instructions on how to build and deploy agents.
+https://www.anthropic.com/engineering/building-effective-agents
 
-5. **[Building Effective Agents – Anthropic](https://www.anthropic.com/agents-guide)**  
-   Principles for building robust, reliable agents.
+6. Agents Companion – Kaggle 
 
-6. **[Agents Companion – Kaggle](https://www.kaggle.com/learn/agents-companion)**  
-   A reference playbook for anyone building AI agents.
+https://drive.google.com/file/d/1GVPdwEh48bErTNdhxD0vqxPAifSx1I6Y/view
 
----
 
-## 🏢 **Use Cases / Enterprise Adoption**
+**ENTERPRISE BOOKS**
 
-Explore how AI can be applied to real-world business problems and scale across industries.
+7. AI in the Enterprise – OpenAI 
 
-7. **[AI in the Enterprise – OpenAI](https://platform.openai.com/docs/enterprise/ai-in-enterprise)**  
-   How to bring AI into real business workflows.
+https://cdn.openai.com/business-guides-and-resources/ai-in-the-enterprise.pdf
 
-8. **[Identifying & Scaling AI Use Cases – OpenAI](https://platform.openai.com/docs/enterprise/scaling-use-cases)**  
-   Where to start and how to scale AI adoption.
+8. Identifying & Scaling AI Use Cases – OpenAI
 
-9. **[601 Real-World GenAI Use Cases – Google](https://ai.google/resources/601-genai-use-cases)**  
-   Industry examples you can apply today.
+https://cdn.openai.com/business-guides-and-resources/identifying-and-scaling-ai-use-cases.pdf
 
----
+9. 601 Real-World GenAI Use Cases – Google 
 
-## ✅ Why This List?
-
-- ✅ Cuts through the overwhelming amount of information  
-- ✅ Focuses on actionable, beginner-friendly resources  
-- ✅ Covers prompts, agent building, and enterprise use cases  
-- ✅ Free resources from top AI research teams like Google, OpenAI, and Anthropic
-
----
-
-✅ Why This List?
-
-• Cuts through the overwhelming amount of information
-
-• Focuses on actionable, beginner-friendly resources
-
-• Covers prompts, agent building, and enterprise use cases
-
-• Free resources from top AI research teams like Google, OpenAI, and Anthropic
+https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?hl=en
