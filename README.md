@@ -1,4 +1,4 @@
-📚 Clean AI Learning Path – Courses to Cut Through the Noise
+## 📚 Clean AI Learning Path – Courses to Cut Through the Noise
 
 Learning AI isn’t hard — it’s just buried under too much noise. This repository provides a clean, structured list of courses and resources that help you learn AI in a simple and effective way.
 
