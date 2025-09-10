@@ -10,14 +10,17 @@ Learn how to craft effective prompts that guide AI models to produce better resu
 
 #### 1. Prompting Guide 101 – Google
 Fundamentals of writing better prompts.
+
 🔗 Explore
 
 #### 2. Prompt Engineering – Google
 Best practices from Google’s AI teams.
+
 🔗 Explore
 
 #### 3. Prompt Engineering – Anthropic
 Techniques for structuring powerful prompts.
+
 🔗 Explore
 
 ### 🤖 Agents / Agent Design
@@ -26,14 +29,17 @@ A practical approach to designing and deploying AI agents that solve problems ef
 
 #### 4. A Practical Guide to Building Agents – OpenAI
 Step-by-step instructions on how to build and deploy agents.
+
 🔗 Explore
 
 #### 5. Building Effective Agents – Anthropic
 Principles for building robust, reliable agents.
+
 🔗 Explore
 
 #### 6. Agents Companion – Kaggle
 A reference playbook for anyone building AI agents.
+
 🔗 Explore
 
 ### 🏢 Use Cases / Enterprise Adoption
@@ -42,14 +48,17 @@ Explore how AI can be applied to real-world business problems and scale across i
 
 #### 7. AI in the Enterprise – OpenAI
 How to bring AI into real business workflows.
+
 🔗 Explore
 
 #### 8. Identifying & Scaling AI Use Cases – OpenAI
 Where to start and how to scale AI adoption.
+
 🔗 Explore
 
 #### 9. 601 Real-World GenAI Use Cases – Google
 Industry examples you can apply today.
+
 🔗 Explore
 
 ✅ Why This List?
