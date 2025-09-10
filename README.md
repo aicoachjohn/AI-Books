@@ -1,7 +1,7 @@
 # 9 Best Agentic AI & Prompt Engineering Book Resource Links
 
 
-## ROMPT ENGINEERING BOOKS
+## PROMPT ENGINEERING BOOKS
 
 ### 1. Prompting Guide 101 – Google 
 
